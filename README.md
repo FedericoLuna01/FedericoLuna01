@@ -1,2 +1,2 @@
-#👋 Hi, I’m Federico Luna.
+#Hi, I’m Federico Luna. 👋
 - 🌱 I’m currently learning Full Stack.

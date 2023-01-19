@@ -2,7 +2,7 @@
 <p>Soy un estudiante de 20 años, actualmente cursando la carrera de ingeniería en sistemas y estudiando programacion de manera autodicta mediante cursos de Udemy, FreeCodeCamp y otros.</p>
 <hr/>
 
-<h3>Tecnologías y lenguajes</h3>
+## Tecnologías y lenguajes
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="http://img.shields.io/badge/-Tailwind-38bdf8?style=flat&logo=tailwindcss&logoColor=white">
@@ -24,7 +24,7 @@
 - Discord: https://www.discordapp.com/users/545784665928105984
 - Correo: federicolun4@gmail.com
 - Website: En trabajo...
-
+<hr/>
 
 
 

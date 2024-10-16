@@ -4,7 +4,6 @@
 ## Sobre mi
 - ✨ Creando bugs desde 2022
 - 📚 Actualmente estoy aprendiendo docker y despliegue en servidores
-- 🎯 Goals: conseguir trabajo y hablar inglés 🚀
 
 ## Me gusta trabajar con
 <div align="left">

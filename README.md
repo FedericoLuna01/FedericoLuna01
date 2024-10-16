@@ -1,23 +1,35 @@
-<h1>Hola, soy Federico Luna 👋</h1>
-<p>Soy un estudiante de 20 años, actualmente cursando la carrera de ingeniería en sistemas y estudiando programación de manera autodicta mediante cursos de Udemy, FreeCodeCamp y otros.</p>
+<h1>Hola! 👋</h1>
+<p>Soy Federico Luna, tengo 22 años y hace un año estoy cursando la Tecnicatura en Programación en la Universidad Tecnológica Nacional de Rosario.</p>
 
-## Tecnologías y lenguajes
+## Sobre mi
+- ✨ Creando bugs desde 2022
+- 📚 Actualmente estoy aprendiendo docker y despliegue en servidores
+- 🎯 Goals: conseguir trabajo y hablar inglés 🚀
 
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"><img src="https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Next-000000?style=flat&logo=nextdotjs&logoColor=ffffff">
-<img src="http://img.shields.io/badge/-Tailwind-38bdf8?style=flat&logo=tailwindcss&logoColor=white">
-<img src="http://img.shields.io/badge/-ChakraUI-319795?style=flat&logo=chakraui&logoColor=white">
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+## Me gusta trabajar con
+<div align="left">
+  <img src="https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/-Next-000000?style=flat&logo=nextdotjs&logoColor=ffffff">
+  <img src="http://img.shields.io/badge/-Tailwind-38bdf8?style=flat&logo=tailwindcss&logoColor=white">
+  <img src="http://img.shields.io/badge/-ShadCN-000000?style=flat&logo=shadcnui&logoColor=white">
+  <img src="http://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white">
+  <img src="http://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white">
+  <img src="https://img.shields.io/badge/-Postgres-4169E1?style=flat&logo=postgresql&logoColor=FFFFFF">
+  <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+</div>
 
-## Mis redes
-- LinkedIn: https://www.linkedin.com/in/federico-luna-dev/
-- Twitter: https://twitter.com/FedericoLunaDev
-- Discord: https://www.discordapp.com/users/545784665928105984
-- Correo: federicolun4@gmail.com
-- Website: https://federicoluna.netlify.app
+## Me podés encontrar en
+<div align="left">
+  <a href="https://x.com/FedericoLunaDev" target="_blank" >
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/federico-luna-dev/" target="_blank" >
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://federico-luna-portfolio.vercel.app/" target="_blank" >
+    <img src="https://img.shields.io/static/v1?message=Portfolio&label=&color=242427&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+</div>
 
 
 

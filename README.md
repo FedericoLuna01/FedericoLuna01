@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/federico-luna-dev/" target="_blank" >
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://federico-luna-portfolio.vercel.app/" target="_blank" >
+  <a href="https://federicoluna.me" target="_blank" >
     <img src="https://img.shields.io/static/v1?message=Portfolio&label=&color=242427&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
 </div>
